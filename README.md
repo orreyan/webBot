@@ -1,4 +1,4 @@
-# webBot — Streamlit and LangChain Experiments
+# webBot Streamlit and LangChain Experiments
 
 An early exploration of building data and AI web apps in Python with **Streamlit**. The repository contains two small apps: an LLM-powered text assistant and an interactive geospatial data dashboard.
 
